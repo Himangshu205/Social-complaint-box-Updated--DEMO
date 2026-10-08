@@ -4,7 +4,7 @@ A small website for reporting problems in your area and following them until the
 
 This started as a college group project. Here I've rebuilt it as a front-end demo so anyone can click around without installing anything. It runs completely in the browser with sample data, so nothing you do is saved and it all resets when you refresh.
 
-**Live demo:** https://himangshu205.github.io/social-complaint-box-demo/
+**Live demo:** [https://himangshu205.github.io/social-complaint-box-demo/](https://himangshu205.github.io/Social-complaint-box-Updated--DEMO/)
 
 **Want to see the admin side?** Click "Try the admin side" in the yellow bar at the top. The login is already filled in (`admin@example.com` / `demo123`).
 
