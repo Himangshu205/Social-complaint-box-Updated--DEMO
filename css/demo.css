@@ -1,0 +1,5 @@
+/* demo.css: the small banner at the top that says this is a demo. */
+
+.demo-bar { background: #fff3c4; color: #4a3800; font-size: .9rem; padding: .5rem 0; border-bottom: 1px solid #e6cf7a; position: relative; z-index: 30; }
+.demo-bar a { color: #4a3800; font-weight: 600; }
+.demo-bar .wrap { display: flex; gap: .75rem; align-items: center; justify-content: space-between; flex-wrap: wrap; }
