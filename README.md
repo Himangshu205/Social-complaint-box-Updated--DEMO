@@ -80,10 +80,4 @@ assets/
 screenshots/          the pictures in this README
 ```
 
-## Running it yourself
-
-Download the folder and double-click `index.html`. That's all.
-
----
-
 Made by Himangshu Sikder.
